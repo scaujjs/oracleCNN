@@ -129,3 +129,5 @@ def train_hand_write_cnn():
 
 
 train_hand_write_cnn()
+
+##haha
